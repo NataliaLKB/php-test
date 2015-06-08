@@ -1,0 +1,23 @@
+/* SITE INFO */
+	Site: jasonorton.com
+	Last update: 2014/06/18
+	Doctype: HTML5
+	Contact: jason@jasonorton.com
+	Location: UK
+
+/* TEAM */
+	Design & Make: Ben Edmonds at We Sort 
+	Web: wesort.co.uk
+	Twitter: @we_sort
+	Location: London, UK
+
+/* THANKS */
+	Eric Meyer: CSS reset
+	Matt Berridge: fluid, breakpoint-focused grid
+	Tyler Van Der Hoeven: help with Statamic & Elixir
+
+/* TECHNOLOGY */
+  Standards: HTML5, CSS3
+  Components: JQuery, Elixir [https://tinyanvil.com/elixir],
+  CMS: Statamic
+  IDE: ChromeOS, ShiftEdit.net, pixlr.com/editor
